@@ -1,0 +1,18 @@
+/* columnas para tiendas nuevas */
+
+.col1 {float: left; padding: 10px; width: 300px;}
+.col1 h2 {}
+.col1 h2#titulo { text-align: center; border-radius: 10px; 
+/*background-color: #ffd204;*/
+}
+
+
+.col2 {float: left; padding: 10px; padding-top: 40px;  width:300px; list-style: none;}
+
+
+.col3 {float: left; padding: 20px;  width: 300px;}
+
+.col3 h2 { text-align: center; border-radius: 10px; 
+
+/*background-color: #ffd204;*/
+
